@@ -12,6 +12,7 @@ The output is saves as "SpeciesData.csv" and contains the following traits:
 
 Table 1: Number of missing values for the data downloaded 
 Trait | Missing Data
+------|-------------
 skeletaldensityMin | 382
 skeletaldensityMax | 382
 growthrateMin | 357
