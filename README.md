@@ -43,15 +43,11 @@ The following traits are used to support each of the traits in the main analysis
 Table 2: Traits used for the imputation for each variable in the final dataset
 Variable in final dataset | Variables used for imputation
 --------------------------|-----------------------------
-Skeletal density | Larval swimming speed
-                 | Colony shape factor
-	               | Substrate attachment
-                 | Wave exposure
-                 | Wave exposure preference
-Growth rate	     | Calcification rate
-	               | Life history strategy
-                 | Growth form
-                 | Growth form from Veron
+Skeletal density | Larval swimming speed, Colony shape factor, Substrate attachment, Wave exposure, Wave exposure preference
+Growth rate | Calcification rate, 
+Life history strategy,
+Growth form,
+Growth form from Veron
 Corallite width	 | Polyps per area
 	               | Tissue thickness
                  | Total biomass
