@@ -53,4 +53,6 @@ Photosynthesis	 | Symbiodinium density, Symbiodinium clade, Symbiodinium subclad
 
 # 2. Step - Imputation
 
+The imputation trials different methods and repeats these multiple times to receive teh best results. The code is saved as "ImputeMissingData[Trait name].R" and the results are saved in multiple dataframes named "[Trait name]ImputedData[Numbering].RData".
 
+# 3. Step - TestImputation
