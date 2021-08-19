@@ -44,26 +44,10 @@ Table 2: Traits used for the imputation for each variable in the final dataset
 Variable in final dataset | Variables used for imputation
 --------------------------|-----------------------------
 Skeletal density | Larval swimming speed, Colony shape factor, Substrate attachment, Wave exposure, Wave exposure preference
-Growth rate | Calcification rate, 
-Life history strategy,
-Growth form,
-Growth form from Veron
-Corallite width	 | Polyps per area
-	               | Tissue thickness
-                 | Total biomass
-Colony diameter	 | Colony area
-                 | Colony shape factor
-	               | Coloniality
-Reproduction	   | Polyp fecundity
-                 | Egg size
-                 | Colony fecundity
-                 | Mode of larval development
-                 | Propagule size
-                 | Sexual system
-                 | Symbiodinium
-Photosynthesis	 | Symbiodinium density
-                 | Symbiodinium clade
-                 | Symbiodinium subclade
-                 | Zooxanthellate
+Growth rate | Calcification rate, Life history strategy, Growth form, Growth form from Veron
+Corallite width	 | Polyps per area, Tissue thickness, Total biomass
+Colony diameter	 | Colony area, Colony shape factor, Coloniality
+Reproduction	   | Polyp fecundity, Egg size, Colony fecundity, Mode of larval development, Propagule size, Sexual system, Symbiodinium
+Photosynthesis	 | Symbiodinium density, Symbiodinium clade, Symbiodinium subclade, Zooxanthellate
 
 
