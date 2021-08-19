@@ -59,5 +59,5 @@ The imputation trials different methods and repeats these multiple times to rece
 
 To test the imputation results, I iteratively remove one known datapoint and refit the model to this dataset and then predict this removed datapoint using the fitted model. Then I calculate the mean +/- standard deviation for each of these predicted datapoints which can then be compared to the known datapoint prior to removal.
 
-The code to conduct this analysis is named "CheckImputedData[TYrait name].R".
+The code to conduct this analysis is named "CheckImputedData[Trait name].R".
 
