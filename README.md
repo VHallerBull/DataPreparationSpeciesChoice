@@ -51,3 +51,6 @@ Reproduction	   | Polyp fecundity, Egg size, Colony fecundity, Mode of larval de
 Photosynthesis	 | Symbiodinium density, Symbiodinium clade, Symbiodinium subclade, Zooxanthellate
 
 
+# 2. Step - Imputation
+
+
