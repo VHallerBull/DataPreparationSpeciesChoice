@@ -1,4 +1,4 @@
-setwd("~/SpeciesChoice/DataPreparation")
+setwd("~/SpeciesChoice/DataPreparationSpeciesChoice/DataDownload")
 
 ##Species list identification
 #load species from Corals of the world that are present in the GBR
