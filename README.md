@@ -56,3 +56,8 @@ Photosynthesis	 | Symbiodinium density, Symbiodinium clade, Symbiodinium subclad
 The imputation trials different methods and repeats these multiple times to receive teh best results. The code is saved as "ImputeMissingData[Trait name].R" and the results are saved in multiple dataframes named "[Trait name]ImputedData[Numbering].RData".
 
 # 3. Step - TestImputation
+
+To test the imputation results, I iteratively remove one known datapoint and refit the model to this dataset and then predict this removed datapoint using the fitted model. Then I calculate the mean +/- standard deviation for each of these predicted datapoints which can then be compared to the known datapoint prior to removal.
+
+The code to conduct this analysis is named "CheckImputedData[TYrait name].R".
+
